@@ -1,0 +1,46 @@
+.wp-block-supporthost-blocks-supporthost-07 {
+	border-top: 5px solid #fca249;
+	padding: 25px;
+	transition-property: all;
+    transition-duration: 0.5s;
+    box-shadow: 0 5px 6px 0 rgb(0 0 0 / 23%);
+}
+
+.supporthost-testimonial-image img {
+    border-radius: 100%;
+    max-width: 125px;
+	border: 3px solid #000;
+}
+
+.supporthost-testimonial-name {
+	margin-top: 30px;
+	font-weight: 700;
+	font-size: 1.25em;
+}
+
+.supporthost-testimonial-position {
+	margin-top: 15px;
+	opacity: 0.75;
+	font-size: 0.75em;
+}
+
+.supporthost-testimonial-content {
+	margin-top: 15px;
+	font-size: 0.75em;
+}
+
+.wp-block-supporthost-blocks-supporthost-06:hover {
+	transform: scale(1.05,1.05);
+}
+
+.supporthost-block-align-left {
+    text-align: left;
+}
+
+.supporthost-block-align-center {
+	text-align: center;
+}
+
+.supporthost-block-align-right {
+	text-align: right;
+}

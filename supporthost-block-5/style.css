@@ -1,0 +1,19 @@
+.wp-block-supporthost-blocks-supporthost-05 {
+    border-left: 7px solid #6754e2;
+    padding: 10px 10px 10px 1.5em;
+    font-style: italic;
+    margin: 3em 0;
+    box-shadow: 0 2px 12px 0 rgb(0 0 0 / 5%), 0 0 35px 0 rgb(0 0 0 / 5%), 0 30px 100px -40px rgb(0 0 0 / 15%);
+}
+
+.supporthost-block-align-left {
+    text-align: left;
+}
+
+.supporthost-block-align-center {
+	text-align: center;
+}
+
+.supporthost-block-align-right {
+	text-align: right;
+}

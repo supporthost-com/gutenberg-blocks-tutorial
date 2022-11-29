@@ -1,0 +1,10 @@
+{
+    "apiVersion": 2,
+    "title": "SupportHost: 02",
+    "name": "supporthost-blocks/supporthost-02",
+    "category": "layout",
+    "icon": "admin-generic",
+    "editorScript": "file:./block.js",
+    "editorStyle": "file:./editor.css",
+    "style": "file:./style.css"
+}
